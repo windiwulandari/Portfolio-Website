@@ -1,0 +1,66 @@
+body{
+  background-color: #fff;
+}
+
+.a-1{
+ padding-top: 5%;
+}
+
+.a-2{
+  background-color: #660033 !important;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  color: #f5c4c7 ;
+  
+}
+.c-1{
+  padding-top: 2%;
+}
+.a-2 p {
+  padding-left: 15%;
+  padding-right: 15%;
+  color:#FFFFFF;
+}
+.e-1{
+  padding-top: 2%;
+}
+.d-1{
+  padding-top: 3%;
+}
+.b-1{
+  padding-top: 4%;
+}
+/*.a-3{
+  background-color: #f5c4c7;
+}*/
+.navbar.bg-dark{
+  background-color: #641B2E !important;
+}
+
+.navbar-brand img{
+  border-radius: 50%;
+}
+
+/*.container.text-center hr{
+  color: #dc8582;
+  border-top: 7px solid;
+}*/
+.card-group{
+  width: 300%;
+}
+.card-group.a-4{
+  width: 300%;
+  padding-bottom: 30%;
+  padding-left: 10%;
+}
+
+.footer{
+  padding-top: 3%;
+}
+
+@media (max-width: 992px) {
+  .hide-on-small-screens {
+    display: none !important;
+  }
+}
+
